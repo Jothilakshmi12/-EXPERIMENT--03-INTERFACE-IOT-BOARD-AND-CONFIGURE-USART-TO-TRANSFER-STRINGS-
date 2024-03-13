@@ -64,8 +64,8 @@ int main(void)
   while (1)
   {
  
-	  printf("Prabha\n");
-	  printf("Chandrasekar\n");
+	  printf("Jothi\n");
+	  printf("Jo\n");
 	  HAL_Delay(500);
 
   }
@@ -155,7 +155,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of Serial port utility   :
- 
+ ![iotex03output](https://github.com/Jothilakshmi12/-EXPERIMENT--03-INTERFACE-IOT-BOARD-AND-CONFIGURE-USART-TO-TRANSFER-STRINGS-/assets/138849182/6f62156f-d33e-4c23-b38a-15d532845b10)
+
  
  
  
